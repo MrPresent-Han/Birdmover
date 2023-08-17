@@ -1,0 +1,3 @@
+--extra-index-url https://test.pypi.org/simple/
+pymilvus==2.4.0.dev115
+fire==0.5.0
